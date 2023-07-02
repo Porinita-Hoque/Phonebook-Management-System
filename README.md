@@ -1,6 +1,6 @@
 # <p align="center"> Phonebook Management System </p>
 
-### <p align="justify"> The Phonebook Management System is a software application designed using C to manage contacts efficiently. It provides various functionalities such as adding new contacts, searching for contacts, updating existing contacts, deleting contacts, and displaying all contacts. This aims to simplify contact management tasks and provide an organized approach to store & retrieve contact information. </p>
+<p align="justify"> The Phonebook Management System is a software application designed using C to manage contacts efficiently. It provides various functionalities such as adding new contacts, searching for contacts, updating existing contacts, deleting contacts, and displaying all contacts. This aims to simplify contact management tasks and provide an organized approach to store & retrieve contact information. </p>
 
 <hr>
 
